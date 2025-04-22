@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNC Proto</title>
+    <link>https://cnc-proto.eu/fr/</link>
+    <description>Recent content on CNC Proto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2022 CNC Proto &amp;middot; Fabriqué en Europe avec fierté :eu:</copyright>
+    <lastBuildDate>Sun, 17 Feb 2019 09:21:30 +0000</lastBuildDate><atom:link href="https://cnc-proto.eu/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demande de devis</title>
+      <link>https://cnc-proto.eu/fr/devis/</link>
+      <pubDate>Mon, 18 Feb 2019 09:44:18 +0000</pubDate>
+      
+      <guid>https://cnc-proto.eu/fr/devis/</guid>
+      <description>Cela ne prendra qu&#39;une minute.</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>https://cnc-proto.eu/fr/a-propos/</link>
+      <pubDate>Mon, 18 Feb 2019 09:16:36 +0000</pubDate>
+      
+      <guid>https://cnc-proto.eu/fr/a-propos/</guid>
+      <description>Fabriqué en Europe avec fierté.</description>
+    </item>
+    
+    <item>
+      <title>Foire aux questions</title>
+      <link>https://cnc-proto.eu/fr/foire-aux-questions/</link>
+      <pubDate>Sun, 17 Feb 2019 10:34:25 +0000</pubDate>
+      
+      <guid>https://cnc-proto.eu/fr/foire-aux-questions/</guid>
+      <description>Si ici vous ne trouvez pas de réponse à votre question, n&amp;rsquo;hésitez pas à nous contacter directement.</description>
+    </item>
+    
+    <item>
+      <title>Réalisations</title>
+      <link>https://cnc-proto.eu/fr/realisations/</link>
+      <pubDate>Sun, 17 Feb 2019 10:25:44 +0000</pubDate>
+      
+      <guid>https://cnc-proto.eu/fr/realisations/</guid>
+      <description>L&#39;usinage CNC est l&#39;un des moyens les plus rapides de réaliser des prototypes fonctionnels, des moules de produits, des séries de production de faible à grand volume et des montages.</description>
+    </item>
+    
+    <item>
+      <title>Services d&#39;Usinage CNC</title>
+      <link>https://cnc-proto.eu/fr/services-usinage/</link>
+      <pubDate>Sun, 17 Feb 2019 10:24:33 +0000</pubDate>
+      
+      <guid>https://cnc-proto.eu/fr/services-usinage/</guid>
+      <description>CNC Proto est spécialisée dans l’usinage CNC de prototypes et de petites séries (1 à 100+) de pièces de petite et moyenne taille en aluminium et plastiques techniques.</description>
+    </item>
+    
+    <item>
+      <title>Politique de Confidentialité</title>
+      <link>https://cnc-proto.eu/fr/politique-de-confidentialite/</link>
+      <pubDate>Sun, 17 Feb 2019 09:20:18 +0000</pubDate>
+      
+      <guid>https://cnc-proto.eu/fr/politique-de-confidentialite/</guid>
+      <description>Protection des données  Nous respectons les données des visiteurs de ce site.</description>
+    </item>
+    
+  </channel>
+</rss>

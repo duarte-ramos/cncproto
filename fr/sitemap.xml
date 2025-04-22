@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://cnc-proto.eu/fr/devis/</loc>
+            <lastmod>2019-02-18T09:44:18+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://cnc-proto.eu/quote/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://cnc-proto.eu/fr/devis/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://cnc-proto.eu/fr/a-propos/</loc>
+            <lastmod>2019-02-18T09:16:36+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://cnc-proto.eu/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://cnc-proto.eu/fr/a-propos/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://cnc-proto.eu/fr/foire-aux-questions/</loc>
+            <lastmod>2019-02-17T10:34:25+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://cnc-proto.eu/faq/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://cnc-proto.eu/fr/foire-aux-questions/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://cnc-proto.eu/fr/realisations/</loc>
+            <lastmod>2019-02-17T10:25:44+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://cnc-proto.eu/sample-parts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://cnc-proto.eu/fr/realisations/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://cnc-proto.eu/fr/services-usinage/</loc>
+            <lastmod>2019-02-17T10:24:33+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://cnc-proto.eu/machining-services/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://cnc-proto.eu/fr/services-usinage/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://cnc-proto.eu/fr/</loc>
+            <lastmod>2019-02-17T09:21:30+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://cnc-proto.eu/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://cnc-proto.eu/fr/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://cnc-proto.eu/fr/politique-de-confidentialite/</loc>
+            <lastmod>2019-02-17T09:20:18+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://cnc-proto.eu/privacy-policy/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="https://cnc-proto.eu/fr/politique-de-confidentialite/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>
